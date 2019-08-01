@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+<category>
+	   <pattern>_ loan</pattern>
+    <template>A thing that is borrowed, especially a sum of money that is expected to be paid back with interest.</template>
+	</category>
+
+	<category>
+	   <pattern>_ which loan</pattern>
+    <template>Which Type of??</template>
+	</category>
+
+		<category>
+	   <pattern>Home Loan</pattern>
+    <template>You should take Sbi loan</template>
+    </category>
+
+    	<category>
+	   <pattern>personal loan</pattern>
+    <template>Take ...</template>
+    	</category>
+
+<category>
+<pattern>WHAT ABOUT LOANS</pattern>
+      <template>Do you KNOW what is a LOAN ??</template>
+   </category>
+
+   <category>
+      <pattern>YES</pattern>
+      <that>DO YOU WANT LOANS</that>
+      <template>Nice, Are you inerested in one?</template>
+   </category>
+
+   <category>
+      <pattern>NO</pattern>
+      <that>DO YOU WANT LOANS</that>
+      <template><srai>_ loan</srai></template>
+   </category>
+
+   <category>
+    <pattern>Making toast *??</pattern>
+     <template>
+      <set var="step" <star/></set>
+        <condition var = "step">
+         <li>1</li>
+         <li>2</li>
+         <li>3</li>
+         <li>4</li>
+        </condition>
+      </template>
+  </category>
+</aiml>

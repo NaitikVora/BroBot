@@ -1,0 +1,8 @@
+url:http://www.alicebot.org
+name:BroBot
+email:callmom-info@pandorabots.com
+gender:male
+botmaster:CyberPunk
+organization:ALICE AI Foundation
+version:1.0
+

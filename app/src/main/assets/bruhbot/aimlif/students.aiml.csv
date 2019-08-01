@@ -1,0 +1,92 @@
+0,BYE,*,*,Good Bye! See you soon again !,students.aiml
+0,BYE *,*,*,<srai>BYE</srai>,students.aiml
+0,BYE _,*,*,<srai>BYE</srai>,students.aiml
+0,_ which stocks _,*,*,Kotak,students.aiml
+0,_ which stock _,*,*,Kotak,students.aiml
+0,which stocks _,*,*,<srai>_ which stocks _</srai>,students.aiml
+0,which stock _,*,*,<srai>_ which stocks _</srai>,students.aiml
+0,_ which bank _,*,*,Kotak bank,students.aiml
+0,which bank _,*,*,<srai>_ which bank _</srai>,students.aiml
+0,what _ loan,*,*,A thing that is borrowed especially a sum of money that is expected to be paid back with interest.,students.aiml
+0,_ which loan _,*,*,Types of loans are - Home  - Personal - Vehicle -Educational,students.aiml
+0,which loan _,*,*,<srai>_ which loan _</srai>,students.aiml
+0,which loan,*,*,<srai>_ which loan _</srai>,students.aiml
+0,home loan,*,*,You should take LIC loan,students.aiml
+0,home,*,*,<srai>home loan</srai>,students.aiml
+0,_ home loan _,*,*,<srai>home loan</srai>,students.aiml
+0,_ educational loan _,*,*,Take Sbi loan for educational loan,students.aiml
+0,educational,*,*,<srai>_ educational loan _</srai>,students.aiml
+0,educational _,*,*,<srai>_ educational loan _</srai>,students.aiml
+0,personal loan,*,*,Take HDFC loan,students.aiml
+0,personal,*,*,<srai>personal loan</srai>,students.aiml
+0,_ personal loan _,*,*,<srai>personal loan</srai>,students.aiml
+0,vehicle loan,*,*,Take Sbi loan for vehicle loan,students.aiml
+0,vehicle,*,*,<srai>vehicle loan</srai>,students.aiml
+0,_ vehicle loan_,*,*,<srai>vehicle loan</srai>,students.aiml
+0,_ vehicle loan _,*,*,Take Sbi loan,students.aiml
+0,_ mutual funds,*,*,A mutual fund collects money from investors and invests the money on their behalf. It charges a small fee for managing the money. Mutual funds are an ideal investment vehicle for regular investors who do not know much about investing. Investors can choose a mutual fund scheme based on their financial goal and start investing to achieve the goal.,students.aiml
+0,_ np,*,*,Many companies use NPS as part of their customer relationship management strategy because the metric is easy to calculate.,students.aiml
+0,_ which mutual funds _,*,*,1.ICICI Prudential Equity and Debt Fund 2. SBI Bluechip Fund 3.Aditya Birla Sun Life Balanced Advantage Fund 4. Franklin India Equity Fund,students.aiml
+0,which mutual funds _,*,*,<srai>_ which mutual funds _</srai>,students.aiml
+0,_ SIP,*,*,A systematic investment plan (SIP) is a plan where investors make regular#Comma equal payments into a mutual fund.,students.aiml
+0,_ stock,*,*,Company stock is a share of ownership in the global economic engine.,students.aiml
+0,_ ETF,*,*,An ETF#Comma or exchange-traded fund#Comma is a marketable security that tracks a stock index#Comma a commodity#Comma bonds#Comma or a basket of assets.,students.aiml
+0,top investments _,*,*,Here are the top 5 investments : 1.Direct equity 2. Equity mutual funds 3. Debt mutual funds 4. National Pension System (NPS) 5. Public Provident Fund (PPF).,students.aiml
+0,top investments,*,*,<srai>_ top _</srai>,students.aiml
+0,_ top investments,*,*,Here are the top 5 investments : 1.Direct equity 2. Equity mutual funds 3. Debt mutual funds 4. National Pension System (NPS) 5. Public Provident Fund (PPF).,students.aiml
+0,_ Direct equity,*,*,Direct investment more commonly referred to as foreign direct investment (FDI)#Comma refers to an investment in a foreign business enterprise designed to acquire a controlling interest in this enterprise.,students.aiml
+0,Direct equity,*,*,<srai>_ Direct equity</srai>,students.aiml
+0,_ Equity mutual funds,*,*,An equity fund is a mutual fund that invests principally in stocks.,students.aiml
+0,Equity mutual,*,*,<srai>_ Equity mutual</srai>,students.aiml
+0,_ Debt mutual funds,*,*,Debt Mutual Funds mainly invest in a mix of debt or fixed income securities.,students.aiml
+0,Debt mutual funds,*,*,<srai>_ Debt mutual funds</srai>,students.aiml
+0,_ Assets,*,*,These are the economic resources a business has including the products it has in inventory the office furniture and supplies purchased for use and any trademarks or copyrights it owns.,students.aiml
+0,Assets,*,*,<srai>_ Assets</srai>,students.aiml
+0,_ Liabilities,*,*,This includes any debt accrued by a business in the course of starting & growing and maintaining its operations & including bank loans & credit card debts & and monies owed to vendors and product manufacturers.,students.aiml
+0,Liabilities,*,*,<srai>_ Liabilities</srai>,students.aiml
+0,_  Expenses,*,*,Business expenses are the costs the company incurs each month in order to operate & including rent & utilities & legal costs & employee salaries & contractor pay & and marketing and advertising costs.,students.aiml
+0,Expenses,*,*,<srai>_ Expenses</srai>,students.aiml
+0,_ Cash Flow,*,*,Your cash flow is the overall movement of funds through your business each month including income and expenses.,students.aiml
+0,Cash Flow,*,*,<srai>_ Cash Flow</srai>,students.aiml
+0,_ Bottom Line,*,*,This is the total amount a business has earned or lost at the end of the month.,students.aiml
+0,Bottom Line,*,*,<srai>_ Bottom Line</srai>,students.aiml
+0,_ Financial Report,*,*,A financial report is a comprehensive account of a business’ transactions and expenses created to give a business oversight of its financial matters.,students.aiml
+0,Financial Report,*,*,<srai>_ Financial Report</srai>,students.aiml
+0,_ Cash Flow Statement,*,*,A cash flow statement shows the money that entered and exited a business during a specific period of time.,students.aiml
+0,Cash Flow Statement,*,*,<srai>_ Cash Flow Statement</srai>,students.aiml
+0,_ Income Statement,*,*,It is also known as a “profit and loss statement” an income statement shows the profitability of a business during a period of time.,students.aiml
+0,Income Statement,*,*,<srai>_ Income Statement</srai>,students.aiml
+0,_ Balance Sheet,*,*,A business’ balance sheet gives a snapshot of the company’s financial situation at a given moment.,students.aiml
+0,Balance Sheet,*,*,<srai>_ Balance Sheet</srai>,students.aiml
+0,_ Profit and Loss,*,*,To remain financially healthy, a business must have a regular profit that exceeds its losses.,students.aiml
+0,Profit and Loss,*,*,<srai>_ Profit and Loss</srai>,students.aiml
+0,_ Capital,*,*,In business finance terms the money a business has in its accounts assets and investments is known as capital.,students.aiml
+0,Capital,*,*,<srai>_ Capital</srai>,students.aiml
+0,_ Accounts Receivable,*,*,It is the amount a business is owed by its clients.,students.aiml
+0,_ Accounts Receivable,*,*,<srai>_ Accounts Receivable</srai>,students.aiml
+0,_ Depreciation,*,*,Over time a business assets decrease in value due to the time that has passed since it was purchased.,students.aiml
+0,Depreciation,*,*,<srai>_ Depreciation</srai>,students.aiml
+0,_ Valuation,*,*,When a business seeks funding from investors#Comma those investors want to know the overall worth of that business.,students.aiml
+0,Valuation,*,*,<srai>_ Valuation</srai>,students.aiml
+0,_ Types of loan,*,*,<srai>_ which loan _</srai>,students.aiml
+0,_ Types of loan _,*,*,<srai>_ which loan _</srai>,students.aiml
+0,Types of loan,*,*,<srai>_ which loan _</srai>,students.aiml
+0,loan,*,*,<srai>what _ loan</srai>,students.aiml
+0,mutual funds,*,*,<srai>_ mutual funds</srai>,students.aiml
+0,what _ stocks,*,*,Company stock is a share of ownership in the global economic engine,students.aiml
+0,stocks,*,*,<srai>_ stocks</srai>,students.aiml
+0,i _ stocks,*,*,<srai>_ which stocks _</srai>,students.aiml
+0,loan,*,*,<srai>_ which loan _</srai>,students.aiml
+0,i _ loan,*,*,<srai>_ which loan _</srai>,students.aiml
+0,hi,*,*,Hello ! How can i help you !!,students.aiml
+0,hello,*,*,<srai>hi</srai>,students.aiml
+0,gm,*,*,<srai>hi</srai>,students.aiml
+0,gn,*,*,<srai>hi</srai>,students.aiml
+0,good morning,*,*,<srai>hi</srai>,students.aiml
+0,good night,*,*,<srai>hi</srai>,students.aiml
+0,hey,*,*,<srai>hi</srai>,students.aiml
+0,what _ mf,*,*,<srai>_ mutual funds</srai>,students.aiml
+0,mf,*,*,<srai>_ mutual funds</srai>,students.aiml
+0,_ Top stocks _,*,*,Starbucks Corporation (SBUX)#Comma NXP Semiconductors (NXPI)#Comma Facebook (FB)#Comma Stitch Fix (SFIX)#Comma Johnson & Johnson (JNJ),students.aiml
+0,Top stocks,*,*,<srai>_ Top stocks _</srai>,students.aiml
+0,_ Top stocks,*,*,<srai>_ Top stocks _</srai>,students.aiml

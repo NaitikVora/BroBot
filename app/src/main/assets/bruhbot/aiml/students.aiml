@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.1">
+	<!-- insert your AIML categories here -->
+	<category>
+          <pattern>BYE</pattern>
+          <template>Good Bye!</template>
+       </category>
+
+       <category>
+          <pattern>BYE *</pattern>
+          <template>
+             <srai>BYE</srai>
+          </template>
+       </category>
+
+    <category>
+              <pattern>BYE _</pattern>
+              <template>
+                 <srai>BYE</srai>
+              </template>
+           </category>
+
+	<category>
+            <pattern>_ which stocks _</pattern>
+            <template>Kotak</template>
+          </category>
+
+    <category>
+                <pattern>which stocks _</pattern>
+                <template><srai>_ which stocks _</srai></template>
+              </category>
+
+          <category>
+            <pattern>_ which bank _</pattern>
+            <template>Kotak bank</template>
+          </category>
+
+    <category>
+                <pattern>which bank _</pattern>
+                <template><srai>_ which bank _</srai></template>
+              </category>
+
+	<category>
+	   <pattern>what _ loan</pattern>
+    <template>A thing that is borrowed especially a sum of money that is expected to be paid back with interest.</template>
+	</category>
+
+	<category>
+	   <pattern>_ which loan _</pattern>
+    <template>Which Type of ? 1. Home 2. Personal 3.Vehicle</template>
+	</category>
+
+	<category>
+    	   <pattern>which loan _</pattern>
+        <template>Which Type of ? 1. Home 2. Personal 3.Vehicle</template>
+    	</category>
+
+		<category>
+	   <pattern>home loan</pattern>
+    <template>You should take Sbi loan</template>
+    </category>
+
+    	<category>
+	   <pattern>personal loan</pattern>
+    <template>Take Sbi </template>
+    	</category>
+
+		<category>
+	   <pattern>_ mutual funds</pattern>
+    <template>A mutual fund collects money from investors and invests the money on their behalf. It charges a small fee for managing the money. Mutual funds are an ideal investment vehicle for regular investors who do not know much about investing. Investors can choose a mutual fund scheme based on their financial goal and start investing to achieve the goal.
+</template>
+	</category>
+
+	<category>
+	   <pattern>_ np</pattern>
+    <template>Many companies use NPS as part of their customer relationship management (CRM) strategy because the metric is easy to calculate.</template>
+    	</category>
+
+    <category>
+	   <pattern>_ which mutual funds _</pattern>
+	   <template>1.ICICI Prudential Equity and Debt Fund 2. SBI Bluechip Fund 3.Aditya Birla Sun Life Balanced Advantage Fund 4. Franklin India Equity Fund</template>
+    </category>
+
+    <category>
+    	   <pattern>which mutual funds _</pattern>
+    	   <template>1.ICICI Prudential Equity and Debt Fund 2. SBI Bluechip Fund 3.Aditya Birla Sun Life Balanced Advantage Fund 4. Franklin India Equity Fund</template>
+        </category>
+
+    <category>
+	   <pattern>_ SIP</pattern>
+       <template>A systematic investment plan (SIP) is a plan where investors make regular, equal payments into a mutual fund, trading account or retirement account.</template>
+    </category>
+
+    <category>
+    	   <pattern>_ stock</pattern>
+           <template>Company stock is a share of ownership in the global economic engine.</template>
+        </category>
+
+
+    <category>
+         <pattern>_ ETF</pattern>
+         <template>An ETF, or exchange-traded fund, is a marketable security that tracks a stock index, a commodity, bonds, or a basket of assets.</template>
+    </category>
+
+    <category>
+             <pattern>_ top _</pattern>
+             <template>Here are the top 5 investments : Direct equity | Equity mutual funds | Debt mutual funds | National Pension System (NPS) | Public Provident Fund (PPF).</template>
+    </category>
+
+    <category>
+             <pattern>_ Direct equity</pattern>
+             <template>Direct investment, more commonly referred to as foreign direct investment (FDI), refers to an investment in a foreign business enterprise designed to acquire a controlling interest in this enterprise.</template>
+    </category>
+
+    <category>
+             <pattern>_ Equity mutual funds</pattern>
+             <template>An equity fund is a mutual fund that invests principally in stocks.</template>
+    </category>
+
+    <category>
+          <pattern>_ Debt mutual funds</pattern>
+          <template>Debt Mutual Funds mainly invest in a mix of debt or fixed income securities.</template>
+    </category>
+
+    <category>
+         <pattern>_ Assets</pattern>
+         <template>These are the economic resources a business has, including the products it has in inventory, the office furniture and supplies purchased for use, and any trademarks or copyrights it owns.</template>
+    </category>
+
+    <category>
+              <pattern>_ Liabilities</pattern>
+              <template>This includes any debt accrued by a business in the course of starting & growing and maintaining its operations & including bank loans & credit card debts & and monies owed to vendors and product manufacturers.</template>
+        </category>
+
+    <category>
+              <pattern>_  Expenses</pattern>
+              <template>Business expenses are the costs the company incurs each month in order to operate & including rent & utilities & legal costs & employee salaries & contractor pay & and marketing and advertising costs.</template>
+        </category>
+
+    <category>
+        <pattern>_ Cash Flow</pattern>
+        <template>Your cash flow is the overall movement of funds through your business each month, including income and expenses.</template>
+    </category>
+
+<category>
+              <pattern>_ Bottom Line</pattern>
+              <template>This is the total amount a business has earned or lost at the end of the month.</template>
+      </category>
+    <category>
+              <pattern>_ Financial Report</pattern>
+              <template>A financial report is a comprehensive account of a business’ transactions and expenses, created to give a business oversight of its financial matters.</template>
+    </category>
+
+    <category>
+                  <pattern>_ Cash Flow Statement</pattern>
+                  <template>A cash flow statement shows the money that entered and exited a business during a specific period of time.</template>
+          </category>
+
+    <category>
+                      <pattern>_ Income Statement</pattern>
+                      It is also known as a “profit and loss statement,” an income statement shows the profitability of a business during a period of time.<template></template>
+              </category>
+
+    <category>
+                      <pattern>_ Balance Sheet</pattern>
+                      <template>A business’ balance sheet gives a snapshot of the company’s financial situation at a given moment.</template>
+              </category>
+
+    <category>
+                          <pattern>_ Profit and Loss</pattern>
+                          <template>To remain financially healthy, a business must have a regular profit that exceeds its losses.</template>
+                  </category>
+
+    <category>
+                          <pattern>_ Capital</pattern>
+                          <template>In business finance terms, the money a business has in its accounts, assets and investments is known as capital.</template>
+                  </category>
+
+    <category>
+                          <pattern>_ Accounts Receivable</pattern>
+                          <template>It is the amount a business is owed by its clients.</template>
+                  </category>
+
+    <category>
+                  <pattern>_ Depreciation</pattern>
+                  <template>Over time a business’ assets decrease in value due to the time that has passed since it was purchased.</template>
+          </category>
+
+ <category>
+              <pattern>_ Valuation</pattern>
+              <template>When a business seeks funding from investors, those investors want to know the overall worth of that business.</template>
+      </category>
+
+ <category>
+               <pattern>_ Top stocks</pattern>
+               <template><srai>_ Top stocks _</srai></template>
+       </category>
+
+
+
+
+
+
+
+
+
+
+      <category>
+              <pattern>_ question</pattern>
+              <template>answer.</template>
+      </category>
+</aiml>

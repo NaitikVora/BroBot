@@ -1,0 +1,3 @@
+0,*,*,*,<srai>UDC</srai>,udc.aiml
+0,UDC,*,*,<random>#Newline<li><srai>RANDOM PICKUP LINE</srai></li>#Newline<li><srai>INQUIRY AGE</srai></li>#Newline<li><srai>INQUIRY GENDER</srai></li>#Newline<li><srai>INQUIRY LOCATION</srai></li>#Newline</random>,udc.aiml
+0,RANDOM PICKUP LINE,*,*,<random>#Newline<li>Sorry ! I didn't get you. </li>#Newline<li>I'm getting smarter day by day .</li>#Newline<li>Developers are finding for that !!</li>#Newline<li>I'm not smart enough to understand that .</li>#Newline<li>I'm still gathering about it.</li>#Newline<li>Sorry! i can't understand you </li>#Newline</random>,udc.aiml

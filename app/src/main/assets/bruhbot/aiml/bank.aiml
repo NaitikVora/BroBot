@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+
+<category><pattern>_ kotak _</pattern>
+<template>Kotak Mahindra Bank is an Indian private sector bank headquartered in Mumbai in Maharashtra India.<srai>interest of kotak</srai></template>
+</category>
+<category><pattern>_ kotak</pattern>
+<template><srai>_ kotak _</srai></template>
+</category>
+
+<category><pattern>_ kotak</pattern>
+<template><srai>GREETINGS</srai></template>
+</category>
+<category><pattern>_ kotak</pattern>
+<template><srai>GREETINGS</srai></template>
+</category>
+<category><pattern>_ kotak</pattern>
+<template><srai>GREETINGS</srai></template>
+</category>
+</aiml>

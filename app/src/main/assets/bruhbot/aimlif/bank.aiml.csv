@@ -1,0 +1,20 @@
+0,_ kotak _,*,*,Kotak Mahindra Bank is an Indian private sector bank headquartered in Mumbai in Maharashtra India.Simple Interest of kotak is 9% pa for 9 month period,bank.aiml
+0,_ kotak,*,*,<srai>_ kotak _</srai>,bank.aiml
+0,open account,*,*,You should open accounts at <srai>banks</srai>,bank.aiml
+0,banks,*,*,Major banks like kotak -SBI -HDFC ETC,bank.aiml
+0,_ sbi _,*,*,The State Bank of India (SBI) is an Indian multinational public sector banking and financial services company.Simple Interest is 7% pa for 9 month period,bank,bank.aiml
+0,_ sbi,*,*,<srai>_ sbi _</srai> ,bank.aiml
+0,_ hdfc _,*,*,HDFC Bank Limited (Housing Development Finance Corporation) is an Indian banking and financial services company headquartered in Mumbai in  Maharashtra.Simple Interest is 6.75% pa for 9 month period ,bank.aiml
+0,_ hdfc,*,*,<srai>_ hdfc _</srai> ,bank.aiml
+0,stocks,*,*,<srai>_ stocks</srai>,bank.aiml
+0,_ interest of sbi,*,*,Simple Interest of sbi is 7% pa for 9 month period,bank.aiml
+0,_ interest of kotak,*,*,Simple Interest of kotak is 9% pa for 9 month period,bank.aiml
+0,_ interest of hdfc,*,*,Simple Interest of hdfc is 6.75% pa for 9 month period,bank.aiml
+0,_ S.I of sbi,*,*,Simple Interest of sbi is 7% pa for 9 month period,bank.aiml
+0,_ S.I of kotak,*,*,Simple Interest of kotak is 9% pa for 9 month period,bank.aiml
+0,_ S.I of hdfc,*,*,Simple Interest of hdfc is 6.75% pa for 9 month period,bank.aiml
+0,_ rate  of interest of hdfc,*,*,Rate of interest of hdfc is 5.75%,bank.aiml
+0,_ rate  of interest of kotak,*,*,Rate of interest of kotak is 6.25%,bank.aiml
+0,_ rate  of interest of sbi,*,*,Rate of interest of sbi is 6.75%,bank.aiml
+0,_ rate of interest of banks,*,*,<srai>_ rate  of interest of sbi</srai> <srai>_ rate  of interest of kotak</srai> <srai>_ rate  of interest of hdfc</srai>,bank.aiml
+
